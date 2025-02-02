@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pedrobrice91</h1>
+<h1 align="center">Hi - Holis 👋, SOY pedrobrice91</h1>
 <h3 align="center">Soporte Técnico & Desarrollo Full Stack | Soluciones IT</h3>
 
 - 📫 How to reach me **pedrobrice91@gmail.com**
