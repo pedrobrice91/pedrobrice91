@@ -1,3 +1,128 @@
+
+## 1. Entendimiento del incidente
+
+- Qué está fallando
+- A quién afecta
+- Desde cuándo ocurre
+- Impacto operacional
+
+Ejemplo:
+
+> “Primero necesito entender el alcance del incidente: si afecta a un cliente puntual o a varios, desde cuándo ocurre y cuál es el impacto en la operación.”
+
+---
+
+## 2. Clasificación y priorización
+
+- Severidad
+- Impacto
+- Urgencia
+
+Ejemplo:
+
+> “Clasificaría el incidente según impacto y criticidad para definir prioridad y tiempos de respuesta.”
+
+---
+
+## 3. Validaciones iniciales
+
+Aquí empieza el troubleshooting real.
+
+- ¿La plataforma está arriba?
+- ¿Hay alertas?
+- ¿Servicios activos?
+- ¿Hay conectividad?
+- ¿La API responde?
+- ¿La BD recibe datos?
+
+---
+
+## 4. Hipótesis técnicas
+
+Muy importante: demostrar razonamiento.
+
+Ejemplo:
+
+> “Con la información inicial consideraría posibles fallas de integración, problemas de API, errores en base de datos o fallas de visualización.”
+
+---
+
+## 5. Uso de herramientas técnicas
+
+Aquí nombras concretamente:
+
+- SQL
+- Logs
+- Postman
+- Jira
+- Monitoreo
+- Consolas
+
+Eso demuestra experiencia práctica.
+
+---
+
+## 6. Plan de acción / mitigación
+
+- Resolver
+- Mitigar
+- Reiniciar servicio
+- Corregir datos
+- Aplicar workaround
+
+---
+
+## 7. Comunicación
+
+Yo la movería aquí, no antes.
+
+Porque primero debes entender y diagnosticar algo antes de comunicar.
+
+Ejemplo:
+
+> “Mantendría informado al cliente y a las áreas internas sobre el avance, impacto y tiempos estimados.”
+
+---
+
+## 8. Escalamiento
+
+Importante decir:
+
+- cuándo escalas
+- con evidencia
+
+Ejemplo:
+
+> “Si identifico que el incidente requiere intervención de desarrollo o infraestructura, escalaría adjuntando evidencia, logs, consultas SQL y pruebas realizadas.”
+
+---
+
+## 9. Documentación
+
+Muy importante para soporte.
+
+- causa raíz
+- solución
+- evidencia
+- pasos realizados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi - Holis 👋, SOY pedrobrice91</h1>
 <h3 align="center">Soporte Técnico & Desarrollo Full Stack | Soluciones IT</h3>
 
